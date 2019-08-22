@@ -1,5 +1,5 @@
 public class Goods{
-	private int gid;//jjjjjjjjjj
+	private int gid;//kkkkkkkkkk
 	private String gname;
 	private double price;
 }
